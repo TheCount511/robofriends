@@ -7,7 +7,7 @@
     "react-dom": "^16.10.2",
     "react-scripts": "3.2.0",
     "tachyons": "^4.11.1",
-    "homepage" : "https://thecount511.github.io/robofriends/src"
+    "homepage" : "https://thecount511.github.io/robofriends/"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -15,7 +15,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-"deploy": "gh-pages -d build"
+  "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
