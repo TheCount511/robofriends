@@ -6,7 +6,8 @@
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-scripts": "3.2.0",
-    "tachyons": "^4.11.1"
+    "tachyons": "^4.11.1",
+    "homepage" : "https://thecount511.github.io/robofriends/"
   },
   "scripts": {
     "start": "react-scripts start",
